@@ -1,0 +1,31 @@
+.header {
+  background-color: #614eea;
+}
+#navbarScrollingDropdown {
+  color: #fff;
+  font-size: 18px;
+}
+.main_menu {
+  margin-right: 40px;
+}
+.menu-Item {
+  width: 1100px;
+  border-bottom: 2px solid #614eea;
+}
+.menu-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.inputbox {
+  background: #4445d5;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.inputBtn {
+  background: #4445d5;
+  border: none;
+  outline: none;
+  color: #fff;
+}
